@@ -1,2 +1,2 @@
 # LearningDataStructures
-A repo to document my journey while learning Data Structures.
+Each folder will contain the sources I have been reviewing for that data structure or algorithm. Additionally, I will try to create code to understand.
