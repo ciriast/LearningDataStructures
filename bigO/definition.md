@@ -5,8 +5,9 @@ BigO:  describes how an algorithm's run time or space requirements grow as the i
 
 BigO: The amount of time it takes for an algortithm to execute as the input size grows.
 
-Big-O notation only describes the theoretical growth rate of algorithms, rather than the actual running time of the algorithm when implemented on a given computer.
+BigO notation only describes the theoretical growth rate of algorithms, rather than the actual running time of the algorithm when implemented on a given computer.
 
+BigO: Simplified analysis of an algorithm's efficiency.
 
 Time complexity
 Space complexity
