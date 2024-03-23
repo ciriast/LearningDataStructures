@@ -6,3 +6,4 @@ https://www.youtube.com/watch?v=cmahmqABn0g
 https://www.youtube.com/watch?v=Mo4vesaut8g&list=WL&index=18
 https://www.youtube.com/watch?v=BgLTDT03QtU&list=WL&index=12
 https://www.youtube.com/watch?v=__vX2sjlpXU&list=WL&index=1
+https://www.bigocheatsheet.com/

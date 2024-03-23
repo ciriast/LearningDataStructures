@@ -9,6 +9,9 @@ BigO notation only describes the theoretical growth rate of algorithms, rather t
 
 BigO: Simplified analysis of an algorithm's efficiency.
 
+General rules:
+-Ignore constants
+
 Time complexity
 Space complexity
 
